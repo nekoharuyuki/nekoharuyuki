@@ -7,6 +7,7 @@
 ## Profile ( https://nekoharuyuki.github.io/ )
 **Work experience**  
 I am an engineer working at a game company.  
+
 I began developing game content in 2011 and was responsible for slot machine development in 2013. Since 2017, I have been involved in developing social games and continue to work on a variety of game content as well as xR content utilizing game engines.
 
 Please contact us from here.  
