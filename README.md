@@ -6,8 +6,8 @@
 
 ## Profile ( https://nekoharuyuki.github.io/ )
 **Work experience**  
-I'm an engineer at a game company.  
-I started developing game content in 2011, and was in charge of pachinko / pachislot development in 2013. He has been engaged in social game development since 2017, and is still developing a wide range of game content and xR content using game engines.
+I am an engineer working at a game company.  
+I began developing game content in 2011 and was responsible for slot machine development in 2013. Since 2017, I have been involved in developing social games and continue to work on a variety of game content as well as xR content utilizing game engines.
 
 Please contact us from here.  
 https://nekoharuyuki.github.io/Form.io/
